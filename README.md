@@ -14,7 +14,7 @@
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jp-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="right" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/xDhYnTkcWJrJjA2eJPsk-Eivm1I2VWAyvSVAErblfIyUPUL-ItO9dOxTbQ4kcqvCHtKCe8AQKM6DNhyLrcR_3pwbz-jiWrVaPg7Ss51vm9IzE_Er57UbmTR3_f__iTYndvnaFWauc7NmvZwMGbvg-p5lX_j_eg2ws810hVqYp68aKP9HLpOnosSM14nKltzVdAzs-V52RLWnEsB0zn2a4DMSxKR6soIbwFU7tXBdceh3-48xSfjASQiXk7gxvSNw0R-grEwtpryr8KqsYrK9Qa7jTy5ZpgbJ21VQ1EcgP-d0I5G9x0peTqliGhIlEEwYrqH8Q_8a_8lWAjwyPBAlTSP91aKJzJx4mh_xxNuGJlsFyJz9_W4_oOZSTWvtuzGq-7ap371PdiXVcCy6ebXSm0ZeYq3C4pkmsnoUPvsdrYihxSjXmVUMZBc3whWzS9j_BzA_uUdlg77J5CTXSA_5dHPwKbmvtRUdx02bL4vpou8MvLobE1FLFZkx-_EglXJd6MnXYUdXPhvWIJQapYYpchvc1JliQasVCQSJB2YiCdcF1chahXtH4emZQu9wYgmv2VdFNSEKDqdch7DE6SnpWM4eDoTcOycCKrdeGQfW_w2drEcZpFVAbBKjY3jOiR7Iu3-4uIejSJKaJGWurHEzS8Uc3jD6A7DwlZEDh_Fkx_6fvRCzYtG0nnyv00QnxHDUxHNmD_Yj9tsUYLyiV5Kna2KOjw=s418-no?authuser=0">
+  <img align="right" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/24378Oo7BieC9UcGwX/giphy.gif">
 </div>
   
  ##
