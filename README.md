@@ -2,7 +2,7 @@
 
 -♦ Desenvolvendo projetos em **PYTHON** e **SQL**
 
--♦ Iniciando no mundo profissional
+-♦ Iniciando no ramo profissional
 
 <div align="center">
   <a href="https://github.com/JoaoPedroRMatias">
