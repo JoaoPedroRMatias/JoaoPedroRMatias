@@ -7,7 +7,6 @@
 <div align="center">
   <a href="https://github.com/JoaoPedroRMatias">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -23,5 +22,6 @@
  <div>
   <a href="https://www.instagram.com/sou.apenas.o.joao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-matias-41650a1aa/R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
