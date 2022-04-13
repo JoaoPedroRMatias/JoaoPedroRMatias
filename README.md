@@ -2,7 +2,7 @@
 
 -♦ Desenvolvendo projetos em **PYTHON** e **SQL**
 
--♦ Iniciando no ramo profissional
+-♦ Aprofundando aprendizagem em segurança da informação.
 
 <div align="center">
   <a href="https://github.com/JoaoPedroRMatias">
