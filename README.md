@@ -1,8 +1,8 @@
 ## Olá! Eu sou o João Pedro!
 
--♦ Desenvolvendo projetos em **PYTHON** e **SQL**
+-♦ Graduando em **Análise e Desenvolvimento de Sistemas** da Anhembi Morumbi
 
--♦ Aprofundando aprendizagem em segurança da informação.
+-♦ Aprofundando meus estudos em Segurança da Informação pela Solyd Offensive Security.
 
 <div align="center">
   <a href="https://github.com/JoaoPedroRMatias">
