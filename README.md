@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Pedro!
 
--♦ Graduando em **Análise e Desenvolvimento de Sistemas** da Anhembi Morumbi
+-♦ Graduando em **Análise e Desenvolvimento de Sistemas** pela Anhembi Morumbi
 
 -♦ Aprofundando meus estudos em Segurança da Informação pela Solyd Offensive Security.
 
