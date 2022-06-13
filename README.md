@@ -2,7 +2,7 @@
 
 -♦ Graduando em **Análise e Desenvolvimento de Sistemas** pela Anhembi Morumbi
 
--♦ Aprofundando meus estudos em Segurança da Informação pela Solyd Offensive Security.
+-♦ Aprofundando meus estudos em Segurança da Informação pela Solyd Offensive Security e HackTheBox.
 
 <div align="center">
   <a href="https://github.com/JoaoPedroRMatias">
