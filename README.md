@@ -1,17 +1,16 @@
-<img src="https://komarev.com/ghpvc/?username=JoaoPedroRMatias&color=red" alt="JoaoPedroRMatias"/>
-<br>
+<img src="https://komarev.com/ghpvc/?username=JoaoPedroRMatias&color=blue" alt="JoaoPedroRMatias"/>
 
-<p>♦Graduando em Análise e Desenvolvimento de Sistemas.</p>
+<p>♦ Graduando em Análise e Desenvolvimento de Sistemas.</p>
 
-<p>♦Aprofundando meus estudos em Segurança da Informação e Pentest.</p>
+<p>♦ Aprofundando meus estudos em Segurança da Informação e Pentest.</p>
 <br>
 
 <div>
 <a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&hide=jupyter%20notebook,css,html,batchfile&langs_count=8&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&hide=jupyter%20notebook,css,html,batchfile&langs_count=8&theme=dark"/>
 </a>
 </div>
   
