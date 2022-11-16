@@ -7,10 +7,10 @@
 
 <div>
 <a>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
 <a>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&hide=jupyter%20notebook,css,html,batchfile&langs_count=8&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&hide=jupyter%20notebook,css,html,batchfile&langs_count=8&theme=dark"/>
 </a>
 </div>
   
