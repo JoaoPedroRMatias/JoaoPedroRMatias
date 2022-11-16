@@ -3,6 +3,8 @@
 <p>♦ Graduando em Análise e Desenvolvimento de Sistemas.</p>
 
 <p>♦ Aprofundando meus estudos em Segurança da Informação e Pentest.</p>
+
+<p>♦ Tenho maior familiaridade com linux e infraestrutura de redes.</p>
 <br>
 
 <div>
