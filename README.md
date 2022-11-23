@@ -4,7 +4,7 @@
 
 <p>♦ Aprofundando meus estudos em Segurança da Informação e Pentest.</p>
 
-<p>♦ Tenho maior familiaridade com linux e infraestrutura de redes.</p>
+<p>♦ Maior familiaridade com linux e infraestrutura de redes.</p>
 <br>
 
 <div>
