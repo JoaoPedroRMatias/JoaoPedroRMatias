@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=JoaoPedroRMatias&color=blue" alt="JoaoPedroRMatias"/>
-
 <p>♦ Graduando em Análise e Desenvolvimento de Sistemas.</p>
 
 <p>♦ Aprofundando meus estudos em Segurança da Informação e Pentest.</p>
