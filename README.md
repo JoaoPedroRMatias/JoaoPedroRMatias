@@ -1,14 +1,20 @@
-<a>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark"/>
-</a>
-<a>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&theme=dark&https://github.com/anuraghazra/github-readme-stats"/>
-</a>
+<div>
+<h2>Olá! Eu sou o João e esse é meu Git</h2>
+</div>
+
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&theme=dark&https://github.com/anuraghazra/github-readme-stats"/>
 </div>
   
  ##
   
 <div>
-<h3>Rede social para contato:</h3>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-rodrigues-matias-41650a1aa/R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h3>Tecnologias</h3>
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </div>
