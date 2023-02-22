@@ -1,4 +1,6 @@
+<center>
 <p>🐧 Linux é vida e não há como negar 🐧</p>
+</center>
 <br>
 
 <div>
