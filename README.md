@@ -1,9 +1,3 @@
-<center>
-<p>🐧 Linux é vida e não há como negar 🐧</p>
-</center>
-<br>
-
-<div>
 <a>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark"/>
 </a>
