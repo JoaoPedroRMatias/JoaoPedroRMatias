@@ -1,4 +1,4 @@
-<p>♦ Maior familiaridade com linux e infraestrutura de redes.</p>
+<p>🐧 Linux é vida e não há como negar 🐧</p>
 <br>
 
 <div>
