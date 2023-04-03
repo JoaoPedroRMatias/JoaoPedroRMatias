@@ -3,8 +3,8 @@
 </div>
 
 <div>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=blue"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&theme=blue&https://github.com/anuraghazra/github-readme-stats"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&theme=dark&https://github.com/anuraghazra/github-readme-stats"/>
 </div>
   
  ##
