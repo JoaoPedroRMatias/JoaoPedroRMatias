@@ -1,5 +1,5 @@
 <div>
-<h2>Olá! Eu sou o João e esse é meu Git</h2>
+<h2>Olá! Eu sou o João e esse é meu Github</h2>
 </div>
 
 <div>
