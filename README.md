@@ -21,7 +21,3 @@
 </div>
 
 ##
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoaoPedroRMatias&bg_color=161b22&color=26a641&line=39d353&point=e0e0e0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
- 
