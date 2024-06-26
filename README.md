@@ -1,6 +1,6 @@
 <div>
 <h2>Olá! Eu sou o João e esse é meu Github</h2>
- <p>Postagem de alguns artigos: https://dev.to/sudoboy</p>
+ <p>Artigos: https://dev.to/sudoboy</p>
 </div>
 
 <div>
