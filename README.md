@@ -1,5 +1,5 @@
 <div>
-<h2>Olá! Eu sou o João e esse é meu Github</h2>
+<h2>Bem vindo!</h2>
  <p>Artigos: https://dev.to/sudoboy</p>
 </div>
 
