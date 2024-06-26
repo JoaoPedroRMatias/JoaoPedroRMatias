@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-r-matias-41650a1aa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://dev.to/sudoboy">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
-<p>Artigos: https://dev.to/sudoboy</p>
 </div>
 
 <div>
