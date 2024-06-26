@@ -1,6 +1,8 @@
 <div>
 <h2>Bem vindo!</h2>
- <p>Artigos: https://dev.to/sudoboy</p>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-r-matias-41650a1aa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<p>Artigos: https://dev.to/sudoboy</p>
 </div>
 
 <div>
