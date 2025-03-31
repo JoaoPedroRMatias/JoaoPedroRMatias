@@ -1,5 +1,5 @@
 <div>
-<h2>Bem vindo!</h2>
+<h2>Bem vindo! (欢迎)</h2>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-r-matias-41650a1aa/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://dev.to/sudoboy">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
@@ -14,7 +14,7 @@
  ##
   
 <div>
-<h3>Tecnologias</h3>
+<h3>Tecnologias (科技)</h3>
 <div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">  
