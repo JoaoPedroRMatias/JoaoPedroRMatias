@@ -5,13 +5,11 @@
 <a href="https://dev.to/sudoboy">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
 
 </div>
-
-<div>
+<!--<div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroRMatias&show_icons=true&theme=dark&hide=css"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroRMatias&layout=compact&theme=dark&https://github.com/anuraghazra/github-readme-stats&hide=css,html"/>
 </div>
-  
- ##
+-->
   
 <div>
 <h3>Tecnologias (科技)</h3>
