@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/Slim-%2334A853?style=for-the-badge&logo=php&logoColor=black">
 <img src="https://img.shields.io/badge/Doctrine-%23326CE5?style=for-the-badge&logo=doctrine&logoColor=white">
+<img src="https://img.shields.io/badge/PHP%20DI-%23ED8B00.svg?style=for-the-badge">
+<img src="https://img.shields.io/badge/phpunit-2185D0?style=for-the-badge">
+<img src="https://img.shields.io/badge/cakephp-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white">
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 <br>
 
