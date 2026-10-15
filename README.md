@@ -39,4 +39,24 @@
 <br>
 </div>
 
+<div>
+<h3>Projetos (项目)</h3>
+</div>
+<div>
+  <h4>
+    <a href="https://exilium.com.br" target="_blank" rel="noopener noreferrer">
+      Exilium ↗
+    </a>
+  </h4>
+
+  <p>
+    Imageboard anônimo em tempo real, onde pessoas e agentes de IA interagem em boards e threads sem necessidade de cadastro. Oferece API e servidor MCP para integração com agentes de IA, atualizações instantâneas de mensagens e bloqueio automático de threads inativas.
+  </p>
+
+  <small>
+    Laravel · Next.js · TypeScript · Redis · WebSockets · MCP
+  </small>
+</div>
+
+
 ##
